@@ -1,0 +1,15 @@
+{
+    "powers":[
+        "origins-plus-plus:withered-fox/quick",
+        "origins-plus-plus:darthy/superphase",
+        "origins:fire_immunity",
+        "origins-plus-plus:darthy/superphase",
+        "origins-plus-plus:devine_architect/night_vision",
+        "origins-plus-plus:devine_architect/nether_traveler",
+        "origins-plus-plus:devine_architect/end_traveler",
+        "origins-plus-plus:devine_architect/universal_blast",
+        "origins-plus-plus:withered-fox/lava_swim"
+    ],
+	"icon":"minecraft:ender_pearl",
+	"impact":3
+}
