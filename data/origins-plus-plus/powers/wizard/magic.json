@@ -1,8 +1,9 @@
 {
 	"type":"origins:stacking_status_effect",
-	"min_stacks":4,
-	"max_stacks":4,
-	"duration_per_stack":20,
+	"min_stacks": 0,
+	"max_stacks": 1,
+	"duration_per_stack": 60,
+	"tick_rate": 60,
 	"effect":{
 		"effect":"minecraft:regeneration",
 		"show_particles":false,
