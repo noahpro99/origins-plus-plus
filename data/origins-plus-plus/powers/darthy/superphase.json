@@ -3,8 +3,8 @@
 	"resource":{
 		"type":"origins:resource",
 		"min":0,
-		"max":300,
-		"start_value":300,
+		"max":350,
+		"start_value":350,
 		"hud_render":{
 			"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_01.png",
 			"bar_index":16
@@ -17,7 +17,7 @@
 	},
 	"timer":{
 		"type":"origins:action_over_time",
-		"interval":1,
+		"interval":1.5,
 		"entity_action":{
 			"type":"origins:if_else",
 			"condition":{

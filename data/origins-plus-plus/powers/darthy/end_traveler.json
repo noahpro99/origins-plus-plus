@@ -1,7 +1,7 @@
 {
 	"type":"origins:active_self",
 	"key":"key.loadToolbarActivator",
-	"cooldown":6000,
+	"cooldown":3000,
 	"hud_render":{
 		"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_02.png",
 		"bar_index":24
