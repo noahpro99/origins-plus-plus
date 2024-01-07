@@ -1,7 +1,5 @@
 team add wizard-support
 summon minecraft:vindicator ~ ~ ~ {Team:wizard-support,CustomName:'{"translate":"origins-plus-plus.light-mage.vindicator"}',DeathLootTable:"minecraft:empty",HandDropChances:[0f,0f]}
-summon minecraft:vindicator ~ ~ ~ {Team:wizard-support,CustomName:'{"translate":"origins-plus-plus.light-mage.vindicator"}',DeathLootTable:"minecraft:empty",HandDropChances:[0f,0f]}
-summon minecraft:vindicator ~ ~ ~ {Team:wizard-support,CustomName:'{"translate":"origins-plus-plus.light-mage.vindicator"}',DeathLootTable:"minecraft:empty",HandDropChances:[0f,0f]}
 tag @e[type=minecraft:vindicator,distance=..10] add good
 
 execute as @e[distance=..50,type=minecraft:vindicator,tag=good] run effect give @s minecraft:slow_falling 5 0 true
